@@ -1,0 +1,15 @@
+dj-database-url
+Django
+django-cors-headers
+django-heroku
+djangorestframework
+gunicorn
+Pillow
+psycopg2
+pytz
+setuptools
+sqlparse
+whitenoise
+requests
+beautifulsoup4
+bs4
